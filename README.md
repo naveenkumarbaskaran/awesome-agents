@@ -257,6 +257,7 @@ Orchestration frameworks, protocol bridges, and swarm systems.
 | [NeuralHive](https://github.com/naveenkumarbaskaran/NeuralHive) | Multi-agent orchestration (supervisor, swarm, router) | Python, LangGraph, LLM | `pip install neuralhive` |
 | [SwarmLab](https://github.com/naveenkumarbaskaran/SwarmLab) | Swarm intelligence simulation framework | Python, asyncio, LLM | `pip install swarmlab-ai` |
 | [hive](https://github.com/naveenkumarbaskaran/hive) | 13-phase AI development lifecycle agent crew | Python, CrewAI, LangGraph | `pip install hive-agents` |
+| [agent-flow](https://github.com/Rajeshdevandla/agent-flow) | 6-agent Constitutional AI orchestration system with safety layer, eval framework, and full decision audit trail | Python, Anthropic Claude SDK, FastAPI | Clone + run |
 
 ---
 
